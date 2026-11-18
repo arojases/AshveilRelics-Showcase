@@ -21,6 +21,8 @@ A peaceful village faces an ancient darkness. Accept the *Echoes of Darkness* qu
 - Animated main menu, defeat/retry flow, victory screen, and narrative epilogue
 - Scene-based soundtrack, contextual sound effects, and music transitions
 
+[**Read the v1.1 changelog**](CHANGELOG.md)
+
 ## What's new in Demo v1.1
 
 **A Village Worth Saving** makes the village feel more alive and the start of the adventure clearer:
