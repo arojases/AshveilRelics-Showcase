@@ -42,9 +42,6 @@ The rest of the combat, boss encounter and narrative ending are preserved. [Down
 ### Village
 ![Village scene](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ2MC5qcGc=/original/p47aqR.jpg)
 
-### Village — Updated in v1.1
-![Updated village with new NPCs](Village_Update.jpg)
-
 ### Dungeon exploration
 ![Dungeon exploration](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1Ni5qcGc=/original/glFw9o.jpg)
 
