@@ -21,7 +21,9 @@ A peaceful village faces an ancient darkness. Accept the *Echoes of Darkness* qu
 
 ## Screenshots
 
-Gameplay screenshots are available on [itch.io](https://arojases.itch.io/ashveil-relics).
+![Ashveil Relics main menu](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1NC5qcGc=/original/V%2FYNyU.jpg)
+
+More gameplay screenshots are available on [itch.io](https://arojases.itch.io/ashveil-relics).
 
 ## Controls
 
