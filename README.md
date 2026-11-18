@@ -21,9 +21,25 @@ A peaceful village faces an ancient darkness. Accept the *Echoes of Darkness* qu
 
 ## Screenshots
 
+### Main menu
 ![Ashveil Relics main menu](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1NC5qcGc=/original/V%2FYNyU.jpg)
 
-More gameplay screenshots are available on [itch.io](https://arojases.itch.io/ashveil-relics).
+### Village
+![Village scene](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ2MC5qcGc=/original/p47aqR.jpg)
+
+### Dungeon exploration
+![Dungeon exploration](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1Ni5qcGc=/original/glFw9o.jpg)
+
+### Orc ambush
+![Orc ambush](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1NS5qcGc=/original/HP5TCw.jpg)
+
+### Final boss — Lucifer Skeleton Ancient
+![Lucifer boss fight](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1Ny5qcGc=/original/jalOqg.jpg)
+
+### Story ending
+![End of the adventure](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1OS5qcGc=/original/XQG9GX.jpg)
+
+[View all screenshots and download the game on itch.io](https://arojases.itch.io/ashveil-relics).
 
 ## Controls
 
