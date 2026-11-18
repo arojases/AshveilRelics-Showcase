@@ -1,8 +1,8 @@
 # Ashveil Relics
 
-**A dark fantasy 2D action RPG prototype — Unity 6 · C# · Windows**
+**A dark fantasy 2D action RPG prototype — Unity 6 · C# · Windows · Demo v1.1**
 
-[**Download the playable Windows demo on itch.io**](https://arojases.itch.io/ashveil-relics)
+[**Download Demo v1.1 for Windows on itch.io**](https://arojases.itch.io/ashveil-relics)
 
 ## The game
 
@@ -15,9 +15,22 @@ A peaceful village faces an ancient darkness. Accept the *Echoes of Darkness* qu
 - Eight-direction movement, responsive melee combat, and directional dodge with temporary invulnerability
 - Skeleton and orc enemy varieties with visible weapons and readable attack warnings
 - Dungeon encounters, NPC dialogue, quest tracking, and scene transitions
+- **v1.1:** Three new village storytellers (villager, guard and wizard) explaining the dungeon threat
+- **v1.1:** A small subterranean cave entrance with a quest-activated door, solid rock collision and a front-facing interaction zone (press **E** to enter)
 - Two-phase final boss featuring three attacks and a boss health bar
 - Animated main menu, defeat/retry flow, victory screen, and narrative epilogue
 - Scene-based soundtrack, contextual sound effects, and music transitions
+
+## What's new in Demo v1.1
+
+**A Village Worth Saving** makes the village feel more alive and the start of the adventure clearer:
+
+- **Villager Woman:** describes the villagers' fear as monsters approach the town.
+- **Village Guard:** recounts the failed expedition into the dungeon.
+- **Village Wizard:** introduces the ancient seal and the threat of Lucifer Skeleton Ancient.
+- **Subterranean cave entrance:** an embedded wooden door opens after accepting *Echoes of Darkness*. Cave boundaries prevent walking through rock, and a small interaction area allows entry only by pressing **E** in front of the door. Once the main quest is complete, the entrance closes.
+
+The rest of the combat, boss encounter and narrative ending are preserved. [Download the updated Windows build](https://arojases.itch.io/ashveil-relics).
 
 ## Screenshots
 
@@ -69,6 +82,7 @@ A peaceful village faces an ancient darkness. Accept the *Echoes of Darkness* qu
 | Enemy AI | Pursuit, warnings, attack timing, damage feedback |
 | Final boss | State-driven behavior, three attacks, health-based phase transition |
 | Progression | Quest journal, dialogue, encounters, scene transitions |
+| Village v1.1 | Three narrative NPCs, quest-activated underground entrance, collider-based interaction |
 | Presentation | TextMeshPro, transitions, reusable audio manager |
 
 See [Architecture](docs/ARCHITECTURE.md) and the [C# code examples](src/README.md).
@@ -83,7 +97,7 @@ Selected first-party C# scripts are included under `src/` to demonstrate impleme
 
 **Developer:** Ariel Rojas  
 **Technology:** Unity 6 / C#  
-**Status:** Published Windows demo
+**Status:** Published Windows demo v1.1
 
 OpenAI Codex and other generative AI tools assisted with coding, implementation, and debugging. Third-party art, sound effects, and music are credited to their original creators.
 
