@@ -71,13 +71,13 @@ A peaceful village faces an ancient darkness. Accept the *Echoes of Darkness* qu
 | Progression | Quest journal, dialogue, encounters, scene transitions |
 | Presentation | TextMeshPro, transitions, reusable audio manager |
 
-See [Architecture](docs/ARCHITECTURE.md) and the [C# code examples](examples/README.md).
+See [Architecture](docs/ARCHITECTURE.md) and the [C# code examples](src/README.md).
 
 ## About this repository
 
 This is a **public technical showcase**, **not the full Unity project**. The full project remains private because it includes licensed third-party pixel art. The playable Windows build is distributed on itch.io.
 
-Selected first-party C# scripts are included under `examples/` to demonstrate implementation. These depend on other Unity components and **are not a standalone compilable game**.
+Selected first-party C# scripts are included under `src/` to demonstrate implementation. These depend on other Unity components and **are not a standalone compilable game**.
 
 ## Development
 
