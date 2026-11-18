@@ -36,25 +36,34 @@ The rest of the combat, boss encounter and narrative ending are preserved. [Down
 
 ## Screenshots
 
+### Cover artwork
+![Ashveil Relics cover artwork](screenshots/AshveilRelics-portada.jpg)
+
 ### Main menu
-![Ashveil Relics main menu](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1NC5qcGc=/original/V%2FYNyU.jpg)
+![Ashveil Relics main menu](screenshots/Menu.jpg)
 
 ### Village
-![Village scene](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ2MC5qcGc=/original/p47aqR.jpg)
+![Village scene](screenshots/Village.jpg)
+
+### Village — Updated in v1.1
+![Village with additional narrative NPCs](screenshots/Village_Update.jpg)
+
+### Underground dungeon entrance — v1.1
+![Subterranean dungeon entrance](screenshots/Dungeon_Entrance.jpg)
 
 ### Dungeon exploration
-![Dungeon exploration](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1Ni5qcGc=/original/glFw9o.jpg)
+![Dungeon exploration with skeleton enemies](screenshots/Dungeon_1.jpg)
 
 ### Orc ambush
-![Orc ambush](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1NS5qcGc=/original/HP5TCw.jpg)
+![Orc ambush in the boss room](screenshots/Dungeon_2.jpg)
 
 ### Final boss — Lucifer Skeleton Ancient
-![Lucifer boss fight](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1Ny5qcGc=/original/jalOqg.jpg)
+![Lucifer Skeleton Ancient boss fight](screenshots/Boss_Fight.jpg)
 
 ### Story ending
-![End of the adventure](https://img.itch.zone/aW1hZ2UvNTM5Njg5Ni8zMjQ5OTQ1OS5qcGc=/original/XQG9GX.jpg)
+![End of the adventure](screenshots/End_game.jpg)
 
-[View all screenshots and download the game on itch.io](https://arojases.itch.io/ashveil-relics).
+[Download the game and follow development on itch.io](https://arojases.itch.io/ashveil-relics).
 
 ## Controls
 
